@@ -1,4 +1,4 @@
-## 📘 Follow for the Latest IBM Db2 AI Tutorials and Updates
+## 📘 Follow for the Latest IBM Db2 AI Tutorials
 
 Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quader](https://www.linkedin.com/in/shaikhquader/), AI Architect @ IBM Db2, on LinkedIn:
 
