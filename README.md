@@ -24,6 +24,3 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
 
 - 🖼️ **[Slide Deck: Db2 AI Vectors – Powering Modern AI Use Cases (PDF)](https://github.com/shaikhq/db2ai/raw/main/AI%20Vectors%20-%20Shaikh%20Quader.pdf)**  
   Presentation delivered on **June 17, 2025**, covering how Db2's native vector support enables modern AI workloads—from embedding storage to semantic search and RAG pipelines.
-
-
-https://community.ibm.com/community/user/blogs/shaikh-quader/2025/04/15/beyond-sql-vector-search
