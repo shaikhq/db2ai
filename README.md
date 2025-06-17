@@ -11,7 +11,7 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
 - 📘 **[Semantic Search with Db2 + Vector Embeddings](https://community.ibm.com/community/user/blogs/shaikh-quader/2025/04/15/beyond-sql-vector-search)**  
   A practical walkthrough of building a semantic product recommendation system using Db2’s AI vector features, ahead of Db2 12 Mod Pack 2 GA.
 
-- ⚙️ **[AI Vectors and Similarity Search – A Gentle Introduction](https://www.idug.org/news/ai-vectors-and-similarity-search---a-gentle-introduction)**  
+- ⚙️ **[AI Vectors and Similarity Search – A Gentle Introduction](https://community.ibm.com/community/user/blogs/shaikh-quader/2025/03/19/vectors-intro)**  
   Introductory guide to the fundamentals of vector similarity search and Db2’s native vector data type.
 
 - 🧰 **[Building a Minimal Local RAG Pipeline with Db2 & llama.cpp](https://www.linkedin.com/posts/shaikhquader_ibm-db2-rag-activity-7336189522830872577-zbD4)**  
