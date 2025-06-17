@@ -14,4 +14,7 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
 - ⚙️ **[AI Vectors and Similarity Search – A Gentle Introduction](https://www.idug.org/news/ai-vectors-and-similarity-search---a-gentle-introduction)**  
   Introductory guide to the fundamentals of vector similarity search and Db2’s native vector data type.
 
+- 🧰 **[Building a Minimal Local RAG Pipeline with Db2 & llama.cpp](https://www.linkedin.com/posts/shaikhquader_ibm-db2-rag-activity-7336189522830872577-zbD4)**  
+  How to build a fully local Retrieval-Augmented Generation (RAG) workflow using llama.cpp for embeddings and Db2 vectors—all without external APIs.
+
 
