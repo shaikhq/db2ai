@@ -6,6 +6,11 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
   <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn">
 </a>
 
+## 🎤 Talks & Presentations
+
+- 🖼️ **[Slide Deck: Db2 AI Vectors – Powering Modern AI Use Cases (PDF)](https://github.com/shaikhq/db2ai/raw/main/AI%20Vectors%20-%20Shaikh%20Quader.pdf)**  
+  Presentation delivered on **June 17, 2025**, covering how Db2's native vector support enables modern AI workloads—from embedding storage to semantic search and RAG pipelines.
+
 ## 📚 Learn: Db2 + AI Vector Resources
 
 - 📘 **[Semantic Search with Db2 + Vector Embeddings](https://community.ibm.com/community/user/blogs/shaikh-quader/2025/04/15/beyond-sql-vector-search)**  
@@ -19,8 +24,3 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
 
 - 📄 **[Local Embedding Generation with llama.cpp + Db2 (Python UDF)](https://github.com/IBM/db2-samples/tree/master/ai-vectors/embedding)**  
   All-in-one code and automation setup for local embedding generation using `llama.cpp`, integrated with Db2 via a Python UDF.
-
-## 🎤 Talks & Presentations
-
-- 🖼️ **[Slide Deck: Db2 AI Vectors – Powering Modern AI Use Cases (PDF)](https://github.com/shaikhq/db2ai/raw/main/AI%20Vectors%20-%20Shaikh%20Quader.pdf)**  
-  Presentation delivered on **June 17, 2025**, covering how Db2's native vector support enables modern AI workloads—from embedding storage to semantic search and RAG pipelines.
