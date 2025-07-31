@@ -24,9 +24,6 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
   Hands-on walkthrough of the Python codebase, showing how to set up the document ingestion pipeline, LangGraph agent, and retrieval logic in a reproducible way.
   📖 [Full tutorial and code](https://lnkd.in/gujc3Wrq)
 
----
-
-Let me know if you'd like to highlight this tutorial in a featured section or pull it into a "🆕 New This Month" block.
 
 
 ## 📚 Learn: Db2 + AI Vector Resources
