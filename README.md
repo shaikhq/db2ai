@@ -8,11 +8,26 @@ Stay up to date with hands-on tutorials on **Db2 + AI** — follow [Shaikh Quade
 
 ## 🎤 Talks & Presentations
 
-- 🖼️ **[Slide Deck: Db2 AI Vectors – Powering Modern AI Use Cases (PDF)](https://github.com/shaikhq/db2ai/raw/main/AI%20Vectors%20-%20Shaikh%20Quader.pdf)**  
+* 🖼️ **[Slide Deck: Db2 AI Vectors – Powering Modern AI Use Cases (PDF)](https://github.com/shaikhq/db2ai/raw/main/AI%20Vectors%20-%20Shaikh%20Quader.pdf)**
   Presentation delivered on **June 17, 2025**, covering how Db2's native vector support enables modern AI workloads—from embedding storage to semantic search and RAG pipelines.
 
-- 🎥 **[Webinar Recording: Db2 AI Vectors – Powering Modern AI Use Cases (1 Hour Talk)](https://community.ibm.com/community/user/events/event-description?CalendarEventKey=99e457b4-3162-43aa-948d-019731727af9&CommunityKey=ea909850-39ea-4ac4-9512-8e2eb37ea09a&Home=%2fcommunity%2fuser%2fgroups%2fcommunity-home%2frecent-community-events)**  
+* 🎥 **[Webinar Recording: Db2 AI Vectors – Powering Modern AI Use Cases (1 Hour Talk)](https://community.ibm.com/community/user/events/event-description?CalendarEventKey=99e457b4-3162-43aa-948d-019731727af9&CommunityKey=ea909850-39ea-4ac4-9512-8e2eb37ea09a&Home=%2fcommunity%2fuser%2fgroups%2fcommunity-home%2frecent-community-events)**
   Full recording of the live webinar delivering an in-depth walkthrough of Db2’s AI vector capabilities and real-world use cases.
+
+* 🤖 **Building an Agentic AI Workflow with Db2 + LangChain**
+  A two-part tutorial on building a reasoning-capable AI agent using **Db2’s vector search** and the **Db2 LangChain connector**, orchestrated with **LangGraph**:
+
+  → 🎬 **[Part 1: Project Overview + Workflow Explanation](https://video.ibm.com/recorded/134436922)**
+  Introduces the Agentic RAG use case, explains how the LLM agent iteratively evaluates, rewrites, and answers queries using vector search, and outlines the full workflow. Ideal for teams modernizing enterprise data access with AI.
+
+  → 🛠️ **[Part 2: Code Walkthrough + Setup Instructions](https://video.ibm.com/recorded/134451386)**
+  Hands-on walkthrough of the Python codebase, showing how to set up the document ingestion pipeline, LangGraph agent, and retrieval logic in a reproducible way.
+  📖 [Full tutorial and code](https://lnkd.in/gujc3Wrq)
+
+---
+
+Let me know if you'd like to highlight this tutorial in a featured section or pull it into a "🆕 New This Month" block.
+
 
 ## 📚 Learn: Db2 + AI Vector Resources
 
